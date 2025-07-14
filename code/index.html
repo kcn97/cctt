@@ -12,7 +12,7 @@
         <link rel="prev" href="..">
       
       
-        <link rel="next" href="../lists/">
+        <link rel="next" href="../diagrams/">
       
       
       <link rel="icon" href="../assets/favicon.ico">
@@ -20,7 +20,7 @@
     
     
       
-        <title>Diagrams - Sống Chánh Niệm</title>
+        <title>Code - Sống Chánh Niệm</title>
       
     
     
@@ -122,7 +122,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#diagrams" class="md-skip">
+        <a href="#code" class="md-skip">
           Skip to content
         </a>
       
@@ -171,7 +171,7 @@ Hi, I'm just an announcement bar 😊
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Diagrams
+              Code
             
           </span>
         </div>
@@ -305,6 +305,25 @@ Hi, I'm just an announcement bar 😊
   
     <li class="md-tabs__item md-tabs__item--active">
       <a href="./" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Code
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../diagrams/" class="md-tabs__link">
         
   
   
@@ -510,13 +529,35 @@ Hi, I'm just an announcement bar 😊
   
   
   <span class="md-ellipsis">
-    Diagrams
+    Code
     
   </span>
   
 
       </a>
       
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../diagrams/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Diagrams
+    
+  </span>
+  
+
+      </a>
     </li>
   
 
@@ -643,10 +684,10 @@ Hi, I'm just an announcement bar 😊
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" >
         
           
-          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+          <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
             
   
   
@@ -659,8 +700,8 @@ Hi, I'm just an announcement bar 😊
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_7">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
             <span class="md-nav__icon md-icon"></span>
             Miscellaneous
           </label>
@@ -837,7 +878,7 @@ Hi, I'm just an announcement bar 😊
 
 
   
-    <a href="https://github.com/kcn97/songchanhniem/blob/main/docs/diagrams.md" title="Edit this page" class="md-content__button md-icon" rel="edit">
+    <a href="https://github.com/kcn97/songchanhniem/blob/main/docs/code.md" title="Edit this page" class="md-content__button md-icon" rel="edit">
       
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75z"/></svg>
     </a>
@@ -845,158 +886,123 @@ Hi, I'm just an announcement bar 😊
   
 
 
-<h1 id="diagrams">Diagrams</h1>
-<div class="tabbed-set tabbed-alternate" data-tabs="1:5"><input checked="checked" id="__tabbed_1_1" name="__tabbed_1" type="radio" /><input id="__tabbed_1_2" name="__tabbed_1" type="radio" /><input id="__tabbed_1_3" name="__tabbed_1" type="radio" /><input id="__tabbed_1_4" name="__tabbed_1" type="radio" /><input id="__tabbed_1_5" name="__tabbed_1" type="radio" /><div class="tabbed-labels"><label for="__tabbed_1_1">Flow chart</label><label for="__tabbed_1_2">Sequence diagram</label><label for="__tabbed_1_3">State diagram</label><label for="__tabbed_1_4">Class diagram</label><label for="__tabbed_1_5">Entity-relationship diagram</label></div>
+<h1 id="code">Code</h1>
+<div class="tabbed-set tabbed-alternate" data-tabs="1:5"><input checked="checked" id="__tabbed_1_1" name="__tabbed_1" type="radio" /><input id="__tabbed_1_2" name="__tabbed_1" type="radio" /><input id="__tabbed_1_3" name="__tabbed_1" type="radio" /><input id="__tabbed_1_4" name="__tabbed_1" type="radio" /><input id="__tabbed_1_5" name="__tabbed_1" type="radio" /><div class="tabbed-labels"><label for="__tabbed_1_1">Code block</label><label for="__tabbed_1_2">Syntax highlighting</label><label for="__tabbed_1_3">Code block with title</label><label for="__tabbed_1_4">Code block with line numbers</label><label for="__tabbed_1_5">Inline code</label></div>
 <div class="tabbed-content">
 <div class="tabbed-block">
-<div class="highlight"><pre><span></span><code>``` mermaid
-graph LR
-  A[Start] --&gt; B{Error?};
-  B --&gt;|Yes| C[Hmm...];
-  C --&gt; D[Debug];
-  D --&gt; B;
-  B ----&gt;|No| E[Yay!];
-```
-</code></pre></div>
-<pre class="mermaid"><code>graph LR
-  A[Start] --&gt; B{Error?};
-  B --&gt;|Yes| C[Hmm...];
-  C --&gt; D[Debug];
-  D --&gt; B;
-  B ----&gt;|No| E[Yay!];</code></pre>
-</div>
-<div class="tabbed-block">
-<div class="highlight"><pre><span></span><code>``` mermaid
-sequenceDiagram
-  autonumber
-  Alice-&gt;&gt;John: Hello John, how are you?
-  loop Healthcheck
-      John-&gt;&gt;John: Fight against hypochondria
-  end
-  Note right of John: Rational thoughts!
-  John--&gt;&gt;Alice: Great!
-  John-&gt;&gt;Bob: How about you?
-  Bob--&gt;&gt;John: Jolly good!
-```
-</code></pre></div>
-<pre class="mermaid"><code>sequenceDiagram
-  autonumber
-  Alice-&gt;&gt;John: Hello John, how are you?
-  loop Healthcheck
-      John-&gt;&gt;John: Fight against hypochondria
-  end
-  Note right of John: Rational thoughts!
-  John--&gt;&gt;Alice: Great!
-  John-&gt;&gt;Bob: How about you?
-  Bob--&gt;&gt;John: Jolly good!</code></pre>
-</div>
-<div class="tabbed-block">
-<div class="highlight"><pre><span></span><code>``` mermaid
-stateDiagram-v2
-  state fork_state &lt;&lt;fork&gt;&gt;
-    [*] --&gt; fork_state
-    fork_state --&gt; State2
-    fork_state --&gt; State3
+<div class="highlight"><pre><span></span><code>```  
+# Fenced code blocks are like Standard
+# Markdown’s regular code blocks, except that
+# they’re not indented and instead rely on
+# start and end fence lines to delimit the
+# code block.
 
-    state join_state &lt;&lt;join&gt;&gt;
-    State2 --&gt; join_state
-    State3 --&gt; join_state
-    join_state --&gt; State4
-    State4 --&gt; [*]
+x = 1
+if x == 1:
+    # indented four spaces
+    print(&quot;x is 1.&quot;)
 ```
 </code></pre></div>
-<pre class="mermaid"><code>stateDiagram-v2
-  state fork_state &lt;&lt;fork&gt;&gt;
-    [*] --&gt; fork_state
-    fork_state --&gt; State2
-    fork_state --&gt; State3
+<div class="highlight"><pre><span></span><code># Fenced code blocks are like Standard
+# Markdown’s regular code blocks, except that
+# they’re not indented and instead rely on
+# start and end fence lines to delimit the
+# code block.
 
-    state join_state &lt;&lt;join&gt;&gt;
-    State2 --&gt; join_state
-    State3 --&gt; join_state
-    join_state --&gt; State4
-    State4 --&gt; [*]</code></pre>
+    x = 1
+if x == 1:
+    # indented four spaces
+    print(&quot;x is 1.&quot;)
+</code></pre></div>
+<p>or</p>
+<div class="highlight"><pre><span></span><code>~~~
+x = 1
+if x == 1:
+    # indented four spaces
+    print(&quot;x is 1.&quot;)
+~~~
+</code></pre></div>
+<div class="highlight"><pre><span></span><code>x = 1
+if x == 1:
+    # indented four spaces
+    print(&quot;x is 1.&quot;)
+</code></pre></div>
 </div>
 <div class="tabbed-block">
-<div class="highlight"><pre><span></span><code>``` mermaid
-classDiagram
-  Person &lt;|-- Student
-  Person &lt;|-- Professor
-  Person : +String name
-  Person : +String phoneNumber
-  Person : +String emailAddress
-  Person: +purchaseParkingPass()
-  Address &quot;1&quot; &lt;-- &quot;0..1&quot; Person:lives at
-  class Student{
-    +int studentNumber
-    +int averageMark
-    +isEligibleToEnrol()
-    +getSeminarsTaken()
-  }
-  class Professor{
-    +int salary
-  }
-  class Address{
-    +String street
-    +String city
-    +String state
-    +int postalCode
-    +String country
-    -validate()
-    +outputAsLabel()  
-  }
+<div class="highlight"><pre><span></span><code>```python
+x = 1
+if x == 1:
+    # indented four spaces
+    print(&quot;x is 1.&quot;)
 ```
 </code></pre></div>
-<pre class="mermaid"><code>classDiagram
-  Person &lt;|-- Student
-  Person &lt;|-- Professor
-  Person : +String name
-  Person : +String phoneNumber
-  Person : +String emailAddress
-  Person: +purchaseParkingPass()
-  Address "1" &lt;-- "0..1" Person:lives at
-  class Student{
-    +int studentNumber
-    +int averageMark
-    +isEligibleToEnrol()
-    +getSeminarsTaken()
-  }
-  class Professor{
-    +int salary
-  }
-  class Address{
-    +String street
-    +String city
-    +String state
-    +int postalCode
-    +String country
-    -validate()
-    +outputAsLabel()  
-  }</code></pre>
+<div class="highlight"><pre><span></span><code><span class="n">x</span> <span class="o">=</span> <span class="mi">1</span>
+<span class="k">if</span> <span class="n">x</span> <span class="o">==</span> <span class="mi">1</span><span class="p">:</span>
+    <span class="c1"># indented four spaces</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;x is 1.&quot;</span><span class="p">)</span>
+</code></pre></div>
 </div>
 <div class="tabbed-block">
-<div class="highlight"><pre><span></span><code>``` mermaid
-erDiagram
-  CUSTOMER ||--o{ ORDER : places
-  ORDER ||--|{ LINE-ITEM : contains
-  LINE-ITEM {
-    string name
-    int pricePerUnit
-  }
-  CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
+<div class="highlight"><pre><span></span><code>```python title=&quot;script.py&quot;
+x = 1
+if x == 1:
+    # indented four spaces
+    print(&quot;x is 1.&quot;)
 ```
 </code></pre></div>
-<pre class="mermaid"><code>erDiagram
-  CUSTOMER ||--o{ ORDER : places
-  ORDER ||--|{ LINE-ITEM : contains
-  LINE-ITEM {
-    string name
-    int pricePerUnit
-  }
-  CUSTOMER }|..|{ DELIVERY-ADDRESS : uses</code></pre>
+<div class="highlight"><span class="filename">script.py</span><pre><span></span><code><span class="n">x</span> <span class="o">=</span> <span class="mi">1</span>
+<span class="k">if</span> <span class="n">x</span> <span class="o">==</span> <span class="mi">1</span><span class="p">:</span>
+    <span class="c1"># indented four spaces</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;x is 1.&quot;</span><span class="p">)</span>
+</code></pre></div>
+</div>
+<div class="tabbed-block">
+<div class="highlight"><pre><span></span><code>```python title=&quot;script.py&quot; linenums=&quot;1&quot;
+x = 1
+if x == 1:
+    # indented four spaces
+    print(&quot;x is 1.&quot;)
+```
+</code></pre></div>
+<div class="highlight"><table class="highlighttable"><tr><th colspan="2" class="filename"><span class="filename">script.py</span></th></tr><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal">1</span>
+<span class="normal">2</span>
+<span class="normal">3</span>
+<span class="normal">4</span></pre></div></td><td class="code"><div><pre><span></span><code><span class="n">x</span> <span class="o">=</span> <span class="mi">1</span>
+<span class="k">if</span> <span class="n">x</span> <span class="o">==</span> <span class="mi">1</span><span class="p">:</span>
+    <span class="c1"># indented four spaces</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;x is 1.&quot;</span><span class="p">)</span>
+</code></pre></div></td></tr></table></div>
+<div class="highlight"><pre><span></span><code>```python title=&quot;script.py&quot; linenums=&quot;1&quot; hl_lines=&quot;2 3&quot;
+x = 1
+if x == 1:
+    # indented four spaces
+    print(&quot;x is 1.&quot;)
+```
+</code></pre></div>
+<div class="highlight"><table class="highlighttable"><tr><th colspan="2" class="filename"><span class="filename">script.py</span></th></tr><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal">1</span>
+<span class="normal">2</span>
+<span class="normal">3</span>
+<span class="normal">4</span></pre></div></td><td class="code"><div><pre><span></span><code><span class="n">x</span> <span class="o">=</span> <span class="mi">1</span>
+<span class="hll"><span class="k">if</span> <span class="n">x</span> <span class="o">==</span> <span class="mi">1</span><span class="p">:</span>
+</span><span class="hll">    <span class="c1"># indented four spaces</span>
+</span>    <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;x is 1.&quot;</span><span class="p">)</span>
+</code></pre></div></td></tr></table></div>
+</div>
+<div class="tabbed-block">
+<div class="highlight"><pre><span></span><code>&lt;code&gt;$ git clone git@github.com:kcn97/songchanhniem.git&lt;/code&gt;
+</code></pre></div>
+<p><code>$ git clone git@github.com:kcn97/songchanhniem.git</code></p>
 </div>
 </div>
 </div>
+<hr />
+<p>To insert a series of backticks (or tildes) into a code block, use a different number of backticks for the separators.
+<div class="highlight"><pre><span></span><code>````
+```
+
+```
+````
+</code></pre></div></p>
 
 
 
