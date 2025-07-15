@@ -1,59 +1,89 @@
-# Start
+# Bắt đầu
 
-Welcome to my [MkDocs-Material Demo project](https://github.com/bergmann-max/MkDocs-Material-Demo) on GitHub! This repository serves as a way for me to gain experience with the MkDocs documentation generator, specifically using the Material theme.
+Chào mừng bạn đến với dự án [CÔNG CỤ & THỦ THUẬT](https://github.com/kcn97/cctt) trên GitHub! Dự án này tập hợp các công cụ và thủ thuật hữu ích trong công việc hàng ngày.
 
-The project includes a basic demo site built with MkDocs-Material, showcasing various features of the theme such as navigation menus, customizable site search, and responsive design. I've also included some sample Markdown files to demonstrate how to structure and format content in a way that works well with MkDocs-Material.
+Dự án bao gồm một website tài liệu được xây dựng bằng MkDocs-Material, giới thiệu các tính năng như menu điều hướng, tìm kiếm tùy chỉnh, và thiết kế responsive. Tôi đã tổ chức nội dung thành các chuyên mục khác nhau để dễ dàng tra cứu và sử dụng.
 
-This project is primarily for my own personal reference, but I hope that others who are interested in using MkDocs-Material will find it helpful as well. I plan to continue experimenting with this theme and adding to the demo site over time, so be sure to check back for updates!
+Dự án này được tạo ra nhằm mục đích chia sẻ kiến thức và kinh nghiệm, hy vọng sẽ hữu ích cho những ai quan tâm. Tôi sẽ tiếp tục cập nhật và bổ sung nội dung theo thời gian, vì vậy hãy thường xuyên ghé thăm để cập nhật những thông tin mới nhất!
 
-If you have any questions or suggestions for improvements, please feel free to open an issue or submit a pull request. Thanks for checking out my project!
+Nếu bạn có bất kỳ câu hỏi hoặc góp ý nào, hãy thoải mái mở issue hoặc submit pull request. Cảm ơn bạn đã quan tâm đến dự án!
 
-!!! info "For full documentation visit"
+## Các chuyên mục chính
+
+### 📚 [Danh mục](danhmuc.md)
+Tổng hợp các danh mục và phân loại công cụ, thủ thuật.
+
+### 🤝 [Cộng tác](congtac.md)
+Các công cụ và phương pháp hỗ trợ cộng tác, làm việc nhóm.
+
+### 📋 [Quản lý](quanly.md)
+Thủ thuật quản lý dự án, tác vụ và tổ chức công việc.
+
+### 📖 [Dạy học](dayhoc.md)
+Công cụ và phương pháp hỗ trợ giảng dạy và học tập.
+
+### ⚡ [Hiệu suất](hieusuat.md)
+Các kỹ thuật tối ưu hóa hiệu suất làm việc.
+
+### 🧹 [Dọn dẹp](dondep.md)
+Công cụ và phương pháp dọn dẹp, tổ chức file và dữ liệu.
+
+### 🤖 [AI & Hỗ trợ](aihotro.md)
+Công cụ AI và các dịch vụ hỗ trợ thông minh.
+
+!!! info "Tài liệu tham khảo"
         * [MkDocs](https://www.mkdocs.org)
         * [MkDocs-Material](https://squidfunk.github.io/mkdocs-material/)
         * [Markdown](https://daringfireball.net/projects/markdown)
 
-## Getting started
+## Bắt đầu sử dụng
 
-### Requirements
+### Yêu cầu hệ thống
 
 #### Python
 
-Install [Python](https://www.python.org/) using your package manager of choice, or by downloading an installer appropriate for your system from [python.org](https://www.python.org/downloads/) and running it.
+Cài đặt [Python](https://www.python.org/) bằng package manager hoặc tải installer từ [python.org](https://www.python.org/downloads/) và chạy nó.
 
 #### pip
 
-If you're using a recent version of Python, the Python package manager, [pip](https://pip.pypa.io/en/stable/installing/), is most likely installed by default. However, you may need to upgrade pip to the lasted version:
+Nếu bạn đang sử dụng Python phiên bản mới, [pip](https://pip.pypa.io/en/stable/installing/) thường được cài đặt mặc định. Tuy nhiên, bạn có thể cần nâng cấp pip lên phiên bản mới nhất:
 
     $ pip install --upgrade pip
 
-If you need to install pip for the first time, download [get-pip.py](https://bootstrap.pypa.io/get-pip.py). Then run the following command to install it:
+Nếu cần cài đặt pip lần đầu, tải [get-pip.py](https://bootstrap.pypa.io/get-pip.py) và chạy lệnh sau:
 
     $ python get-pip.py
 
-### Installing MkDocs w/ MkDocs-Material
+### Cài đặt MkDocs với MkDocs-Material
 
-1. Install the necessary packages using pip:
+1. Cài đặt các package cần thiết bằng pip:
 
         $ pip install mkdocs-material mkdocs[i18n] mkdocs-glightbox mkdocs-git-revision-date-localized-plugin mkdocs-table-reader-plugin
 
-1.  Clone the repository:
+2. Clone repository:
 
-        $ git clone git@github.com:bergmann-max/MkDocs-Material-Demo.git
+        $ git clone git@github.com:kcn97/cctt.git
 
-1.  Change your current working directory
+3. Chuyển đến thư mục dự án:
 
-        $ cd MkDocs-Material-Demo
+        $ cd cctt
 
-1.  Run the command to start a local server that hosts your MkDocs site
+4. Chạy lệnh để khởi động server local:
 
         $ mkdocs serve
 
-1. Open up [http://127.0.0.1:8000/](http://127.0.0.1:8000/) in your browser, and you'll see the default home page being displayed        
+5. Mở [http://127.0.0.1:8000/](http://127.0.0.1:8000/) trong trình duyệt để xem trang chủ        
 
-## Project layout
+## Cấu trúc dự án
 
-    mkdocs.yml    # The configuration file.
+    mkdocs.yml    # File cấu hình chính.
     docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.    
+        index.md       # Trang chủ tài liệu.
+        danhmuc.md     # Danh mục công cụ.
+        congtac.md     # Cộng tác.
+        quanly.md      # Quản lý.
+        dayhoc.md      # Dạy học.
+        hieusuat.md    # Hiệu suất.
+        dondep.md      # Dọn dẹp.
+        aihotro.md     # AI & Hỗ trợ.
+        ...            # Các file markdown và tài nguyên khác.    

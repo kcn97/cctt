@@ -3,7 +3,9 @@ tags:
   - Reference
 ---
 
-=== "Admonition"
+# Cảnh báo
+
+=== "Cảnh báo cơ bản"
 
     ```
     !!! note
@@ -18,7 +20,7 @@ tags:
         nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
         massa, nec semper lorem quam in massa.
     
-=== "Admonition with custom title"
+=== "Cảnh báo với tiêu đề tùy chỉnh"
     ```
     !!! note "Phasellus posuere in sem ut cursushasellus posuere in sem ut cursus"
     
@@ -32,7 +34,7 @@ tags:
         nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
         massa, nec semper lorem quam in massa.
     
-=== "Admonition without title"
+=== "Cảnh báo không có tiêu đề"
     
     ```
     !!! note ""
@@ -47,7 +49,7 @@ tags:
         nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
         massa, nec semper lorem quam in massa.
     
-=== "Admonition, collapsible"
+=== "Cảnh báo có thể thu gọn"
     
     ```
     ??? note

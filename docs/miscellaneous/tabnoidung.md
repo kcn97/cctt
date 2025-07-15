@@ -3,9 +3,9 @@ tags:
   - Reference
 ---
 
-# Content tabs
+# Tab nội dung
 
-## Grouping code blocks
+## Nhóm các khối mã
 
 ````
 === "C"
@@ -56,37 +56,37 @@ tags:
 ## Grouping other content
 
 ```
-=== "Unordered list"
+=== "Danh sách không thứ tự"
 
     * Sed sagittis eleifend rutrum
     * Donec vitae suscipit est
     * Nulla tempor lobortis orci
 
-=== "Ordered list"
+=== "Danh sách có thứ tự"
 
     1. Sed sagittis eleifend rutrum
     2. Donec vitae suscipit est
     3. Nulla tempor lobortis orci
 ```
 
-=== "Unordered list"
+=== "Danh sách không thứ tự"
 
     * Sed sagittis eleifend rutrum
     * Donec vitae suscipit est
     * Nulla tempor lobortis orci
 
-=== "Ordered list"
+=== "Danh sách có thứ tự"
 
     1. Sed sagittis eleifend rutrum
     2. Donec vitae suscipit est
     3. Nulla tempor lobortis orci
 
-## Embedded content
+## Nội dung nhúng
 
 ````
 !!! example
 
-    === "Unordered List"
+    === "Danh sách không thứ tự"
 
         ``` markdown
         * Sed sagittis eleifend rutrum

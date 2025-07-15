@@ -1,15 +1,29 @@
-site_name: MkDocs Material Demo
-site_url: https://bergmann-max.github.io/MkDocs-Material-Demo/
-repo_url: https://github.com/bergmann-max/MkDocs-Material-Demo
-repo_name: bergmann-max/MkDocs-Material-Demo
-edit_uri: blob/master/docs/
+site_name: CÔNG CỤ & THỦ THUẬT
+# site_url: http://127.0.0.1:8000/
+repo_url: https://github.com/kcn97/cctt
+repo_name: kcn97/cctt
+edit_uri: blob/main/docs/
 site_dir: public
 nav:
-# leave 'nav:' blank for an automatic navigation
+  - Bắt đầu: index.md
+  - Danh mục: danhmuc.md
+  - Cộng tác: congtac.md
+  - Quản lý: quanly.md
+  - Dạy học: dayhoc.md
+  - Hiệu suất: hieusuat.md
+  - Dọn dẹp: dondep.md
+  - AI & Hỗ trợ: aihotro.md
+  - Định dạng:
+      - Cảnh báo: miscellaneous/canhbao.md
+      - Nút bấm: miscellaneous/nutbam.md
+      - Tab nội dung: miscellaneous/tabnoidung.md
+      - Chú thích: miscellaneous/chuthich.md
+      - Định dạng văn bản: miscellaneous/dinhdang.md
+      - Chú giải: miscellaneous/chugiai.md
 theme:
     name: material
     custom_dir: overrides
-    language: en
+    language: vi
     logo: assets/logo.png
     favicon: assets/favicon.ico
     icon:
@@ -44,7 +58,6 @@ theme:
         - navigation.top
         - navigation.indexes
         - navigation.sections
-        - toc.integrate
         - toc.follow
 # When sections are enabled, top-level sections are rendered as groups in the sidebar for viewports above 1220px, but remain as-is on mobile.        
 #       - navigation.sections
@@ -92,10 +105,9 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode       
 plugins:
-    - tags:
-        tags_file: tags.md
+    - tags
     - search:
-        lang: en
+        lang: vi
         separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
     - glightbox:
         touchNavigation: true
@@ -129,8 +141,8 @@ markdown_extensions:
   - tables
   - attr_list
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true    
@@ -145,9 +157,18 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true      
 extra:
-  version:
-    provider: mike
-    default: stable  
+  # Custom translations
+  language: vi  # Ensure Vietnamese is used as the base language
+  # Custom translations for UI elements
+  translate:
+    # Change "Table of Contents" text 
+    "toc.title": "Nội dung"
+  # Disabled version provider to avoid 404 errors for versions.json
+  # version:
+  #   provider: mike
+  #   default: stable  
 extra_javascript:
   - javascripts/tablesort.min.js
   - javascripts/tablesort.js
+extra_css:
+  - stylesheets/extra.css
