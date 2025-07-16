@@ -3,7 +3,7 @@ tags:
   - Reference
 ---
 
-# Định dạng văn bản
+# Định dạng
 
 === "Văn bản với các thay đổi được đề xuất"
     

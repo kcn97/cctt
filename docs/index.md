@@ -1,12 +1,5 @@
 # Bắt đầu
-
-Chào mừng bạn đến với dự án [CÔNG CỤ & THỦ THUẬT](https://github.com/kcn97/cctt) trên GitHub! Dự án này tập hợp các công cụ và thủ thuật hữu ích trong công việc hàng ngày.
-
-Dự án bao gồm một website tài liệu được xây dựng bằng MkDocs-Material, giới thiệu các tính năng như menu điều hướng, tìm kiếm tùy chỉnh, và thiết kế responsive. Tôi đã tổ chức nội dung thành các chuyên mục khác nhau để dễ dàng tra cứu và sử dụng.
-
-Dự án này được tạo ra nhằm mục đích chia sẻ kiến thức và kinh nghiệm, hy vọng sẽ hữu ích cho những ai quan tâm. Tôi sẽ tiếp tục cập nhật và bổ sung nội dung theo thời gian, vì vậy hãy thường xuyên ghé thăm để cập nhật những thông tin mới nhất!
-
-Nếu bạn có bất kỳ câu hỏi hoặc góp ý nào, hãy thoải mái mở issue hoặc submit pull request. Cảm ơn bạn đã quan tâm đến dự án!
+Chào mừng bạn đến với dự án CÔNG CỤ & THỦ THUẬT. Dự án này tổng hợp các công cụ, thủ thuật và hướng dẫn giúp bạn làm việc hiệu quả hơn trong nhiều lĩnh vực như quản lý, dạy học, cộng tác, AI hỗ trợ, dọn dẹp dữ liệu, và tối ưu hiệu suất. Nội dung được trình bày rõ ràng, dễ tra cứu, phù hợp cho cả người mới và người đã có kinh nghiệm.
 
 ## Các chuyên mục chính
 
@@ -31,11 +24,15 @@ Công cụ và phương pháp dọn dẹp, tổ chức file và dữ liệu.
 ### 🤖 [AI & Hỗ trợ](aihotro.md)
 Công cụ AI và các dịch vụ hỗ trợ thông minh.
 
+### 📝 [Định dạng](theme/dinhdang.md)
+Hướng dẫn và thủ thuật về định dạng Markdown, trình bày nội dung, và các quy tắc trình bày tài liệu.
+
 !!! info "Tài liệu tham khảo"
         * [MkDocs](https://www.mkdocs.org)
         * [MkDocs-Material](https://squidfunk.github.io/mkdocs-material/)
         * [Markdown](https://daringfireball.net/projects/markdown)
 
+<!--
 ## Bắt đầu sử dụng
 
 ### Yêu cầu hệ thống
@@ -86,4 +83,5 @@ Nếu cần cài đặt pip lần đầu, tải [get-pip.py](https://bootstrap.p
         hieusuat.md    # Hiệu suất.
         dondep.md      # Dọn dẹp.
         aihotro.md     # AI & Hỗ trợ.
-        ...            # Các file markdown và tài nguyên khác.    
+        ...            # Các file markdown và tài nguyên khác.
+-->
