@@ -1,11 +1,11 @@
 # Giới thiệu
-Outlook là công cụ quản lý email, lịch và liên lạc chuyên nghiệp của Microsoft, giúp bạn tổ chức công việc hiệu quả.
+PDF Eagle là công cụ trực tuyến hỗ trợ đọc, chỉnh sửa và chuyển đổi file PDF nhanh chóng.
 
 | Thuộc tính         | Giá trị                                  |
 |--------------------|------------------------------------------|
 | Đánh giá           | ⭐⭐⭐⭐⭐                                   |
-| Trang web          | [outlook.office.com](https://outlook.office.com) |
-| Nền tảng           | PC, Phone, Web                           |
+| Trang web          | [fileeagle.com/pdfeagle/vi](https://fileeagle.com/pdfeagle/vi) |
+| Nền tảng           | Web                                     |
 | Thanh toán         | Miễn phí                                 |
 | Trạng thái         | Dự kiến làm                              |
 

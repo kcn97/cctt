@@ -1,12 +1,12 @@
 # Giới thiệu
-Outlook là công cụ quản lý email, lịch và liên lạc chuyên nghiệp của Microsoft, giúp bạn tổ chức công việc hiệu quả.
+Tree Size là phần mềm phân tích dung lượng ổ đĩa, giúp bạn quản lý và dọn dẹp dữ liệu hiệu quả trên máy tính.
 
 | Thuộc tính         | Giá trị                                  |
 |--------------------|------------------------------------------|
 | Đánh giá           | ⭐⭐⭐⭐⭐                                   |
-| Trang web          | [outlook.office.com](https://outlook.office.com) |
-| Nền tảng           | PC, Phone, Web                           |
-| Thanh toán         | Miễn phí                                 |
+| Trang web          | [jam-software.com](https://jam-software.com) |
+| Nền tảng           | PC                                       |
+| Thanh toán         | Miễn phí, Trả phí                        |
 | Trạng thái         | Dự kiến làm                              |
 
 # Cài đặt và đăng nhập

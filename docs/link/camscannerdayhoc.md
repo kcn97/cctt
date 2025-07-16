@@ -1,12 +1,12 @@
 # Giới thiệu
-Outlook là công cụ quản lý email, lịch và liên lạc chuyên nghiệp của Microsoft, giúp bạn tổ chức công việc hiệu quả.
+Cam Scanner là ứng dụng quét tài liệu, chuyển đổi hình ảnh thành file PDF và chia sẻ dễ dàng.
 
 | Thuộc tính         | Giá trị                                  |
 |--------------------|------------------------------------------|
 | Đánh giá           | ⭐⭐⭐⭐⭐                                   |
-| Trang web          | [outlook.office.com](https://outlook.office.com) |
+| Trang web          | [camscanner.com](https://camscanner.com) |
 | Nền tảng           | PC, Phone, Web                           |
-| Thanh toán         | Miễn phí                                 |
+| Thanh toán         | Miễn phí Edu                             |
 | Trạng thái         | Dự kiến làm                              |
 
 # Cài đặt và đăng nhập

@@ -1,12 +1,12 @@
 # Giới thiệu
-Outlook là công cụ quản lý email, lịch và liên lạc chuyên nghiệp của Microsoft, giúp bạn tổ chức công việc hiệu quả.
+Mathpix là công cụ nhận diện và chuyển đổi công thức toán học từ hình ảnh sang định dạng số, hỗ trợ học tập và nghiên cứu.
 
 | Thuộc tính         | Giá trị                                  |
 |--------------------|------------------------------------------|
 | Đánh giá           | ⭐⭐⭐⭐⭐                                   |
-| Trang web          | [outlook.office.com](https://outlook.office.com) |
+| Trang web          | [mathpix.com](https://mathpix.com)       |
 | Nền tảng           | PC, Phone, Web                           |
-| Thanh toán         | Miễn phí                                 |
+| Thanh toán         | Trả phí                                  |
 | Trạng thái         | Dự kiến làm                              |
 
 # Cài đặt và đăng nhập

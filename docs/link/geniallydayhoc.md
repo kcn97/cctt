@@ -1,12 +1,12 @@
 # Giới thiệu
-Outlook là công cụ quản lý email, lịch và liên lạc chuyên nghiệp của Microsoft, giúp bạn tổ chức công việc hiệu quả.
+Genially là nền tảng tạo bài thuyết trình, infographic và nội dung tương tác trực tuyến, hỗ trợ giáo dục và truyền thông.
 
 | Thuộc tính         | Giá trị                                  |
 |--------------------|------------------------------------------|
 | Đánh giá           | ⭐⭐⭐⭐⭐                                   |
-| Trang web          | [outlook.office.com](https://outlook.office.com) |
-| Nền tảng           | PC, Phone, Web                           |
-| Thanh toán         | Miễn phí                                 |
+| Trang web          | [genially.com](https://genially.com)     |
+| Nền tảng           | Web                                     |
+| Thanh toán         | Miễn phí, Trả phí                        |
 | Trạng thái         | Dự kiến làm                              |
 
 # Cài đặt và đăng nhập

@@ -1,12 +1,12 @@
 # Giới thiệu
-Outlook là công cụ quản lý email, lịch và liên lạc chuyên nghiệp của Microsoft, giúp bạn tổ chức công việc hiệu quả.
+Notion là nền tảng quản lý công việc, ghi chú và hợp tác nhóm đa năng, hỗ trợ cá nhân và doanh nghiệp.
 
 | Thuộc tính         | Giá trị                                  |
 |--------------------|------------------------------------------|
 | Đánh giá           | ⭐⭐⭐⭐⭐                                   |
-| Trang web          | [outlook.office.com](https://outlook.office.com) |
+| Trang web          | [notion.so](https://notion.so)           |
 | Nền tảng           | PC, Phone, Web                           |
-| Thanh toán         | Miễn phí                                 |
+| Thanh toán         | Miễn phí Edu                             |
 | Trạng thái         | Dự kiến làm                              |
 
 # Cài đặt và đăng nhập

@@ -1,10 +1,10 @@
 # Giới thiệu
-Outlook là công cụ quản lý email, lịch và liên lạc chuyên nghiệp của Microsoft, giúp bạn tổ chức công việc hiệu quả.
+Teams là nền tảng giao tiếp và cộng tác nhóm của Microsoft, hỗ trợ chat, gọi video và chia sẻ tài liệu.
 
 | Thuộc tính         | Giá trị                                  |
 |--------------------|------------------------------------------|
 | Đánh giá           | ⭐⭐⭐⭐⭐                                   |
-| Trang web          | [outlook.office.com](https://outlook.office.com) |
+| Trang web          | [teams.microsoft.com](https://teams.microsoft.com) |
 | Nền tảng           | PC, Phone, Web                           |
 | Thanh toán         | Miễn phí                                 |
 | Trạng thái         | Dự kiến làm                              |

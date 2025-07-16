@@ -1,10 +1,10 @@
 # Giới thiệu
-Outlook là công cụ quản lý email, lịch và liên lạc chuyên nghiệp của Microsoft, giúp bạn tổ chức công việc hiệu quả.
+Zalo là ứng dụng nhắn tin, gọi điện và chia sẻ dữ liệu phổ biến tại Việt Nam, hỗ trợ làm việc và giao tiếp nhóm hiệu quả.
 
 | Thuộc tính         | Giá trị                                  |
 |--------------------|------------------------------------------|
-| Đánh giá           | ⭐⭐⭐⭐⭐                                   |
-| Trang web          | [outlook.office.com](https://outlook.office.com) |
+| Đánh giá           | ⭐⭐⭐⭐                                    |
+| Trang web          | [zalo.me](https://zalo.me)               |
 | Nền tảng           | PC, Phone, Web                           |
 | Thanh toán         | Miễn phí                                 |
 | Trạng thái         | Dự kiến làm                              |

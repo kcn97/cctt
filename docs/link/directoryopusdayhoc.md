@@ -1,12 +1,12 @@
 # Giới thiệu
-Outlook là công cụ quản lý email, lịch và liên lạc chuyên nghiệp của Microsoft, giúp bạn tổ chức công việc hiệu quả.
+Directory Opus là phần mềm quản lý file mạnh mẽ, hỗ trợ thao tác và tổ chức dữ liệu chuyên nghiệp trên máy tính.
 
 | Thuộc tính         | Giá trị                                  |
 |--------------------|------------------------------------------|
 | Đánh giá           | ⭐⭐⭐⭐⭐                                   |
-| Trang web          | [outlook.office.com](https://outlook.office.com) |
-| Nền tảng           | PC, Phone, Web                           |
-| Thanh toán         | Miễn phí                                 |
+| Trang web          | [gpsoft.com.au](https://gpsoft.com.au)   |
+| Nền tảng           | PC                                       |
+| Thanh toán         | Trả phí                                  |
 | Trạng thái         | Dự kiến làm                              |
 
 # Cài đặt và đăng nhập

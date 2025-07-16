@@ -1,12 +1,12 @@
 # Giới thiệu
-Outlook là công cụ quản lý email, lịch và liên lạc chuyên nghiệp của Microsoft, giúp bạn tổ chức công việc hiệu quả.
+SimpleMind là phần mềm vẽ sơ đồ tư duy, hỗ trợ tổ chức ý tưởng và lập kế hoạch hiệu quả.
 
 | Thuộc tính         | Giá trị                                  |
 |--------------------|------------------------------------------|
 | Đánh giá           | ⭐⭐⭐⭐⭐                                   |
-| Trang web          | [outlook.office.com](https://outlook.office.com) |
-| Nền tảng           | PC, Phone, Web                           |
-| Thanh toán         | Miễn phí                                 |
+| Trang web          | [simplemind.eu](https://simplemind.eu)   |
+| Nền tảng           | PC, Phone                                |
+| Thanh toán         | Trả phí                                  |
 | Trạng thái         | Dự kiến làm                              |
 
 # Cài đặt và đăng nhập

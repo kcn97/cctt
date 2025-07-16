@@ -1,11 +1,11 @@
 # Giới thiệu
-Outlook là công cụ quản lý email, lịch và liên lạc chuyên nghiệp của Microsoft, giúp bạn tổ chức công việc hiệu quả.
+Typing là nền tảng luyện gõ phím trực tuyến, giúp cải thiện tốc độ và độ chính xác khi nhập liệu.
 
 | Thuộc tính         | Giá trị                                  |
 |--------------------|------------------------------------------|
 | Đánh giá           | ⭐⭐⭐⭐⭐                                   |
-| Trang web          | [outlook.office.com](https://outlook.office.com) |
-| Nền tảng           | PC, Phone, Web                           |
+| Trang web          | [typing.com](https://typing.com)         |
+| Nền tảng           | Web                                     |
 | Thanh toán         | Miễn phí                                 |
 | Trạng thái         | Dự kiến làm                              |
 

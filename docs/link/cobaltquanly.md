@@ -1,11 +1,11 @@
 # Giới thiệu
-Outlook là công cụ quản lý email, lịch và liên lạc chuyên nghiệp của Microsoft, giúp bạn tổ chức công việc hiệu quả.
+Cobalt là công cụ trực tuyến hỗ trợ tạo và quản lý mã QR, giúp chia sẻ thông tin nhanh chóng và tiện lợi.
 
 | Thuộc tính         | Giá trị                                  |
 |--------------------|------------------------------------------|
 | Đánh giá           | ⭐⭐⭐⭐⭐                                   |
-| Trang web          | [outlook.office.com](https://outlook.office.com) |
-| Nền tảng           | PC, Phone, Web                           |
+| Trang web          | [cobalt.tools](https://cobalt.tools)     |
+| Nền tảng           | Web                                     |
 | Thanh toán         | Miễn phí                                 |
 | Trạng thái         | Dự kiến làm                              |
 

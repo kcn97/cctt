@@ -1,11 +1,11 @@
 # Giới thiệu
-Outlook là công cụ quản lý email, lịch và liên lạc chuyên nghiệp của Microsoft, giúp bạn tổ chức công việc hiệu quả.
+ReNamer là phần mềm đổi tên file hàng loạt, hỗ trợ nhiều quy tắc và thao tác tự động hóa trên máy tính.
 
 | Thuộc tính         | Giá trị                                  |
 |--------------------|------------------------------------------|
 | Đánh giá           | ⭐⭐⭐⭐⭐                                   |
-| Trang web          | [outlook.office.com](https://outlook.office.com) |
-| Nền tảng           | PC, Phone, Web                           |
+| Trang web          | [den4b.com](https://den4b.com)           |
+| Nền tảng           | PC                                       |
 | Thanh toán         | Miễn phí                                 |
 | Trạng thái         | Dự kiến làm                              |
 

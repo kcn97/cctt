@@ -1,11 +1,11 @@
 # Giới thiệu
-Outlook là công cụ quản lý email, lịch và liên lạc chuyên nghiệp của Microsoft, giúp bạn tổ chức công việc hiệu quả.
+Everything là phần mềm tìm kiếm file siêu nhanh trên máy tính Windows, giúp truy xuất dữ liệu tức thì.
 
 | Thuộc tính         | Giá trị                                  |
 |--------------------|------------------------------------------|
 | Đánh giá           | ⭐⭐⭐⭐⭐                                   |
-| Trang web          | [outlook.office.com](https://outlook.office.com) |
-| Nền tảng           | PC, Phone, Web                           |
+| Trang web          | [voidtools.com](https://voidtools.com)   |
+| Nền tảng           | PC                                       |
 | Thanh toán         | Miễn phí                                 |
 | Trạng thái         | Dự kiến làm                              |
 

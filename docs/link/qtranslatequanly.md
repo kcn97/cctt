@@ -1,11 +1,11 @@
 # Giới thiệu
-Outlook là công cụ quản lý email, lịch và liên lạc chuyên nghiệp của Microsoft, giúp bạn tổ chức công việc hiệu quả.
+QTranslate là phần mềm dịch thuật nhanh trên máy tính, hỗ trợ nhiều ngôn ngữ và tích hợp với các dịch vụ dịch trực tuyến.
 
 | Thuộc tính         | Giá trị                                  |
 |--------------------|------------------------------------------|
 | Đánh giá           | ⭐⭐⭐⭐⭐                                   |
-| Trang web          | [outlook.office.com](https://outlook.office.com) |
-| Nền tảng           | PC, Phone, Web                           |
+| Trang web          | [taimienphi.vn/download-qtranslate-7805](https://taimienphi.vn/download-qtranslate-7805) |
+| Nền tảng           | PC                                       |
 | Thanh toán         | Miễn phí                                 |
 | Trạng thái         | Dự kiến làm                              |
 

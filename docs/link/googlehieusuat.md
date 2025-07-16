@@ -1,11 +1,11 @@
 # Giới thiệu
-Outlook là công cụ quản lý email, lịch và liên lạc chuyên nghiệp của Microsoft, giúp bạn tổ chức công việc hiệu quả.
+Google là công cụ tìm kiếm và hệ sinh thái dịch vụ trực tuyến lớn nhất thế giới, hỗ trợ tra cứu thông tin nhanh chóng.
 
 | Thuộc tính         | Giá trị                                  |
 |--------------------|------------------------------------------|
-| Đánh giá           | ⭐⭐⭐⭐⭐                                   |
-| Trang web          | [outlook.office.com](https://outlook.office.com) |
-| Nền tảng           | PC, Phone, Web                           |
+| Đánh giá           | ⭐⭐⭐⭐                                    |
+| Trang web          | [google.com](https://google.com)         |
+| Nền tảng           | Web                                     |
 | Thanh toán         | Miễn phí                                 |
 | Trạng thái         | Dự kiến làm                              |
 

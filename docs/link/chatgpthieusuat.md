@@ -1,12 +1,12 @@
 # Giới thiệu
-Outlook là công cụ quản lý email, lịch và liên lạc chuyên nghiệp của Microsoft, giúp bạn tổ chức công việc hiệu quả.
+ChatGPT là công cụ trí tuệ nhân tạo hỗ trợ trò chuyện, giải đáp thắc mắc và tạo nội dung tự động.
 
 | Thuộc tính         | Giá trị                                  |
 |--------------------|------------------------------------------|
 | Đánh giá           | ⭐⭐⭐⭐⭐                                   |
-| Trang web          | [outlook.office.com](https://outlook.office.com) |
-| Nền tảng           | PC, Phone, Web                           |
-| Thanh toán         | Miễn phí                                 |
+| Trang web          | [chatgpt.com](https://chatgpt.com)       |
+| Nền tảng           | Phone, Web                               |
+| Thanh toán         | Miễn phí, Trả phí                        |
 | Trạng thái         | Dự kiến làm                              |
 
 # Cài đặt và đăng nhập

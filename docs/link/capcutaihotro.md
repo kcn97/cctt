@@ -1,12 +1,12 @@
 # Giới thiệu
-Outlook là công cụ quản lý email, lịch và liên lạc chuyên nghiệp của Microsoft, giúp bạn tổ chức công việc hiệu quả.
+CapCut là ứng dụng chỉnh sửa video đa nền tảng, hỗ trợ tạo video chuyên nghiệp và chia sẻ nhanh chóng.
 
 | Thuộc tính         | Giá trị                                  |
 |--------------------|------------------------------------------|
-| Đánh giá           | ⭐⭐⭐⭐⭐                                   |
-| Trang web          | [outlook.office.com](https://outlook.office.com) |
+| Đánh giá           | ⭐⭐⭐⭐                                    |
+| Trang web          | [capcut.com](https://capcut.com)         |
 | Nền tảng           | PC, Phone, Web                           |
-| Thanh toán         | Miễn phí                                 |
+| Thanh toán         | Miễn phí, Trả phí                        |
 | Trạng thái         | Dự kiến làm                              |
 
 # Cài đặt và đăng nhập

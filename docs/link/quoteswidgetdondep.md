@@ -1,11 +1,11 @@
 # Giới thiệu
-Outlook là công cụ quản lý email, lịch và liên lạc chuyên nghiệp của Microsoft, giúp bạn tổ chức công việc hiệu quả.
+Quotes Widget là ứng dụng hiển thị câu nói truyền cảm hứng trên màn hình điện thoại, giúp tạo động lực mỗi ngày.
 
 | Thuộc tính         | Giá trị                                  |
 |--------------------|------------------------------------------|
 | Đánh giá           | ⭐⭐⭐⭐⭐                                   |
-| Trang web          | [outlook.office.com](https://outlook.office.com) |
-| Nền tảng           | PC, Phone, Web                           |
+| Trang web          | [play.google.com/store/apps/details?id=com.ashwin.apps.android.quoteswidget](https://play.google.com/store/apps/details?id=com.ashwin.apps.android.quoteswidget) |
+| Nền tảng           | Phone                                   |
 | Thanh toán         | Miễn phí                                 |
 | Trạng thái         | Dự kiến làm                              |
 

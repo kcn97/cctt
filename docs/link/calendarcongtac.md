@@ -1,10 +1,10 @@
 # Giới thiệu
-Outlook là công cụ quản lý email, lịch và liên lạc chuyên nghiệp của Microsoft, giúp bạn tổ chức công việc hiệu quả.
+Calendar là công cụ quản lý lịch, giúp bạn lên kế hoạch và theo dõi các sự kiện, cuộc họp dễ dàng.
 
 | Thuộc tính         | Giá trị                                  |
 |--------------------|------------------------------------------|
 | Đánh giá           | ⭐⭐⭐⭐⭐                                   |
-| Trang web          | [outlook.office.com](https://outlook.office.com) |
+| Trang web          | [outlook.office.com/calendar/view/month](https://outlook.office.com/calendar/view/month) |
 | Nền tảng           | PC, Phone, Web                           |
 | Thanh toán         | Miễn phí                                 |
 | Trạng thái         | Dự kiến làm                              |

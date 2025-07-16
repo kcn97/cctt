@@ -1,12 +1,12 @@
 # Giới thiệu
-Outlook là công cụ quản lý email, lịch và liên lạc chuyên nghiệp của Microsoft, giúp bạn tổ chức công việc hiệu quả.
+Canva là công cụ thiết kế đồ họa trực tuyến, giúp tạo poster, bài thuyết trình, tài liệu và nhiều sản phẩm sáng tạo khác.
 
 | Thuộc tính         | Giá trị                                  |
 |--------------------|------------------------------------------|
 | Đánh giá           | ⭐⭐⭐⭐⭐                                   |
-| Trang web          | [outlook.office.com](https://outlook.office.com) |
+| Trang web          | [canva.com](https://canva.com)           |
 | Nền tảng           | PC, Phone, Web                           |
-| Thanh toán         | Miễn phí                                 |
+| Thanh toán         | Miễn phí Edu                             |
 | Trạng thái         | Dự kiến làm                              |
 
 # Cài đặt và đăng nhập

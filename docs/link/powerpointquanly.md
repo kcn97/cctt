@@ -1,12 +1,12 @@
 # Giới thiệu
-Outlook là công cụ quản lý email, lịch và liên lạc chuyên nghiệp của Microsoft, giúp bạn tổ chức công việc hiệu quả.
+PowerPoint là phần mềm tạo bài thuyết trình chuyên nghiệp, hỗ trợ trình chiếu và thiết kế nội dung trực quan.
 
 | Thuộc tính         | Giá trị                                  |
 |--------------------|------------------------------------------|
-| Đánh giá           | ⭐⭐⭐⭐⭐                                   |
-| Trang web          | [outlook.office.com](https://outlook.office.com) |
+| Đánh giá           | ⭐⭐⭐⭐                                    |
+| Trang web          | [powerpoint.office.com](https://powerpoint.office.com) |
 | Nền tảng           | PC, Phone, Web                           |
-| Thanh toán         | Miễn phí                                 |
+| Thanh toán         | Trả phí                                  |
 | Trạng thái         | Dự kiến làm                              |
 
 # Cài đặt và đăng nhập

@@ -1,12 +1,12 @@
 # Giới thiệu
-Outlook là công cụ quản lý email, lịch và liên lạc chuyên nghiệp của Microsoft, giúp bạn tổ chức công việc hiệu quả.
+UpNote là ứng dụng ghi chú hiện đại, hỗ trợ đồng bộ đa nền tảng và bảo mật dữ liệu cá nhân.
 
 | Thuộc tính         | Giá trị                                  |
 |--------------------|------------------------------------------|
 | Đánh giá           | ⭐⭐⭐⭐⭐                                   |
-| Trang web          | [outlook.office.com](https://outlook.office.com) |
+| Trang web          | [getupnote.com](https://getupnote.com)   |
 | Nền tảng           | PC, Phone, Web                           |
-| Thanh toán         | Miễn phí                                 |
+| Thanh toán         | Trả phí                                  |
 | Trạng thái         | Dự kiến làm                              |
 
 # Cài đặt và đăng nhập

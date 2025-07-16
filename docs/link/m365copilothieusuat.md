@@ -1,10 +1,10 @@
 # Giới thiệu
-Outlook là công cụ quản lý email, lịch và liên lạc chuyên nghiệp của Microsoft, giúp bạn tổ chức công việc hiệu quả.
+M365 Copilot là trợ lý AI tích hợp trong hệ sinh thái Microsoft 365, giúp tăng hiệu suất làm việc và tự động hóa các tác vụ văn phòng.
 
 | Thuộc tính         | Giá trị                                  |
 |--------------------|------------------------------------------|
 | Đánh giá           | ⭐⭐⭐⭐⭐                                   |
-| Trang web          | [outlook.office.com](https://outlook.office.com) |
+| Trang web          | [m365.cloud.microsoft](https://m365.cloud.microsoft) |
 | Nền tảng           | PC, Phone, Web                           |
 | Thanh toán         | Miễn phí                                 |
 | Trạng thái         | Dự kiến làm                              |

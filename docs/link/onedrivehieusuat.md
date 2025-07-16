@@ -1,10 +1,10 @@
 # Giới thiệu
-Outlook là công cụ quản lý email, lịch và liên lạc chuyên nghiệp của Microsoft, giúp bạn tổ chức công việc hiệu quả.
+OneDrive là dịch vụ lưu trữ đám mây của Microsoft, giúp bạn lưu trữ, chia sẻ và đồng bộ hóa dữ liệu dễ dàng.
 
 | Thuộc tính         | Giá trị                                  |
 |--------------------|------------------------------------------|
 | Đánh giá           | ⭐⭐⭐⭐⭐                                   |
-| Trang web          | [outlook.office.com](https://outlook.office.com) |
+| Trang web          | [onedrive.live.com](https://onedrive.live.com) |
 | Nền tảng           | PC, Phone, Web                           |
 | Thanh toán         | Miễn phí                                 |
 | Trạng thái         | Dự kiến làm                              |
