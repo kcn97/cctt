@@ -1,4 +1,7 @@
-# Giới thiệu
+# Notion
+
+## Giới thiệu
+
 Notion là nền tảng quản lý công việc, ghi chú và hợp tác nhóm đa năng, hỗ trợ cá nhân và doanh nghiệp.
 
 | Thuộc tính         | Giá trị                                  |
@@ -9,12 +12,12 @@ Notion là nền tảng quản lý công việc, ghi chú và hợp tác nhóm �
 | Thanh toán         | Miễn phí Edu                             |
 | Trạng thái         | Dự kiến làm                              |
 
-# Cài đặt và đăng nhập
+## Cài đặt và đăng nhập
 
-# Tính năng cơ bản
+## Tính năng cơ bản
 
-# Tính năng nâng cao
+## Tính năng nâng cao
 
-# Các thủ thuật
+## Các thủ thuật
 
-# Lưu ý quan trọng
+## Lưu ý quan trọng

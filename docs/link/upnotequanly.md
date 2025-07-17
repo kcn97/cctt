@@ -1,4 +1,8 @@
-# Giới thiệu
+
+# UpNote
+
+## Giới thiệu
+
 UpNote là ứng dụng ghi chú hiện đại, hỗ trợ đồng bộ đa nền tảng và bảo mật dữ liệu cá nhân.
 
 | Thuộc tính         | Giá trị                                  |
@@ -9,12 +13,12 @@ UpNote là ứng dụng ghi chú hiện đại, hỗ trợ đồng bộ đa nề
 | Thanh toán         | Trả phí                                  |
 | Trạng thái         | Dự kiến làm                              |
 
-# Cài đặt và đăng nhập
+## Cài đặt và đăng nhập
 
-# Tính năng cơ bản
+## Tính năng cơ bản
 
-# Tính năng nâng cao
+## Tính năng nâng cao
 
-# Các thủ thuật
+## Các thủ thuật
 
-# Lưu ý quan trọng
+## Lưu ý quan trọng

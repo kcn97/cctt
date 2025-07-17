@@ -1,5 +1,9 @@
-# Giới thiệu
+# VnEdu Teacher
+
+## Giới thiệu
+
 VnEdu Teacher là ứng dụng hỗ trợ giáo viên quản lý lớp học, điểm số và liên lạc với phụ huynh trên điện thoại.
+
 
 | Thuộc tính         | Giá trị                                  |
 |--------------------|------------------------------------------|
@@ -9,12 +13,12 @@ VnEdu Teacher là ứng dụng hỗ trợ giáo viên quản lý lớp học, đ
 | Thanh toán         | Miễn phí                                 |
 | Trạng thái         | Dự kiến làm                              |
 
-# Cài đặt và đăng nhập
+## Cài đặt và đăng nhập
 
-# Tính năng cơ bản
+## Tính năng cơ bản
 
-# Tính năng nâng cao
+## Tính năng nâng cao
 
-# Các thủ thuật
+## Các thủ thuật
 
-# Lưu ý quan trọng
+## Lưu ý quan trọng

@@ -1,4 +1,7 @@
-# Giới thiệu
+# Google
+
+## Giới thiệu
+
 Google là công cụ tìm kiếm và hệ sinh thái dịch vụ trực tuyến lớn nhất thế giới, hỗ trợ tra cứu thông tin nhanh chóng.
 
 | Thuộc tính         | Giá trị                                  |
@@ -9,12 +12,12 @@ Google là công cụ tìm kiếm và hệ sinh thái dịch vụ trực tuyến
 | Thanh toán         | Miễn phí                                 |
 | Trạng thái         | Dự kiến làm                              |
 
-# Cài đặt và đăng nhập
+## Cài đặt và đăng nhập
 
-# Tính năng cơ bản
+## Tính năng cơ bản
 
-# Tính năng nâng cao
+## Tính năng nâng cao
 
-# Các thủ thuật
+## Các thủ thuật
 
-# Lưu ý quan trọng
+## Lưu ý quan trọng

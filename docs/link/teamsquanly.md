@@ -1,4 +1,7 @@
-# Giới thiệu
+# Teams
+
+## Giới thiệu
+
 Teams là nền tảng giao tiếp và cộng tác nhóm của Microsoft, hỗ trợ chat, gọi video và chia sẻ tài liệu.
 
 | Thuộc tính         | Giá trị                                  |
@@ -9,12 +12,12 @@ Teams là nền tảng giao tiếp và cộng tác nhóm của Microsoft, hỗ t
 | Thanh toán         | Miễn phí                                 |
 | Trạng thái         | Dự kiến làm                              |
 
-# Cài đặt và đăng nhập
+## Cài đặt và đăng nhập
 
-# Tính năng cơ bản
+## Tính năng cơ bản
 
-# Tính năng nâng cao
+## Tính năng nâng cao
 
-# Các thủ thuật
+## Các thủ thuật
 
-# Lưu ý quan trọng
+## Lưu ý quan trọng

@@ -1,5 +1,8 @@
-# Giới thiệu
-Cam Scanner là ứng dụng quét tài liệu, chuyển đổi hình ảnh thành file PDF và chia sẻ dễ dàng.
+# CamScanner
+
+## Giới thiệu
+
+CamScanner là ứng dụng quét tài liệu, chuyển đổi hình ảnh thành file PDF và chia sẻ dễ dàng.
 
 | Thuộc tính         | Giá trị                                  |
 |--------------------|------------------------------------------|
@@ -9,12 +12,12 @@ Cam Scanner là ứng dụng quét tài liệu, chuyển đổi hình ảnh thà
 | Thanh toán         | Miễn phí Edu                             |
 | Trạng thái         | Dự kiến làm                              |
 
-# Cài đặt và đăng nhập
+## Cài đặt và đăng nhập
 
-# Tính năng cơ bản
+## Tính năng cơ bản
 
-# Tính năng nâng cao
+## Tính năng nâng cao
 
-# Các thủ thuật
+## Các thủ thuật
 
-# Lưu ý quan trọng
+## Lưu ý quan trọng

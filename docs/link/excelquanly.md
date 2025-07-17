@@ -1,4 +1,7 @@
-# Giới thiệu
+# Excel
+
+## Giới thiệu
+
 Excel là phần mềm bảng tính mạnh mẽ, hỗ trợ tính toán, phân tích dữ liệu và trực quan hóa thông tin.
 
 | Thuộc tính         | Giá trị                                  |
@@ -9,12 +12,12 @@ Excel là phần mềm bảng tính mạnh mẽ, hỗ trợ tính toán, phân t
 | Thanh toán         | Trả phí                                  |
 | Trạng thái         | Dự kiến làm                              |
 
-# Cài đặt và đăng nhập
+## Cài đặt và đăng nhập
 
-# Tính năng cơ bản
+## Tính năng cơ bản
 
-# Tính năng nâng cao
+## Tính năng nâng cao
 
-# Các thủ thuật
+## Các thủ thuật
 
-# Lưu ý quan trọng
+## Lưu ý quan trọng

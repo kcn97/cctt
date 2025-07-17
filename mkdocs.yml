@@ -7,130 +7,33 @@ site_dir: public
 nav:
   - Bắt đầu: index.md
   - Danh mục: danhmuc.md
-  - Cộng tác:
-      - Outlook: outlook.md
-      - Calendar: calendar.md
-      - OneDrive: onedrive.md
-      - Zalo: zalo.md
-      - Word: word.md
-      - Excel: excel.md
-      - Foxit PDF Reader: foxitpdfreader.md
-      - Teams: teams.md
-      - Canva: canva.md
-      - CSDL: csdl.md
-      - VnEdu: vnedu.md
-      - Google: google.md
-      - Edge: edge.md
-      - M365 Copilot: m365copilot.md
-      - VnEdu Teacher: vneduteacher.md
-      - VnEdu Connect: vneduconnect.md
-      - Forms: forms.md
-      - SimpleMind: simplemind.md
-      - Notion: notion.md
-      - Directory Opus: directoryopus.md
-  - Quản lý:
-      - Outlook: outlook.md
-      - Calendar: calendar.md
-      - OneDrive: onedrive.md
-      - Zalo: zalo.md
-      - Word: word.md
-      - Excel: excel.md
-      - Foxit PDF Reader: foxitpdfreader.md
-      - Teams: teams.md
-      - Canva: canva.md
-      - CSDL: csdl.md
-      - VnEdu: vnedu.md
-      - 10fastfingers: 10fastfingers.md
-      - M365 Copilot: m365copilot.md
-      - B&T PRO: b&tpro.md
-      - Cam Scanner: camscanner.md
-      - VnEdu Teacher: vneduteacher.md
-      - VnEdu Connect: vneduconnect.md
-      - QTranslate: qtranslate.md
-      - WolframAlpha: wolframalpha.md
-      - PowerPoint: powerpoint.md
-      - Kutools for Excel: kutoolsforexcel.md
-      - SimpleMind: simplemind.md
-      - ReNamer: renamer.md
-      - Notion: notion.md
-      - UpNote: upnote.md
-      - OBS Studio: obsstudio.md
-      - Cobalt: cobalt.md
-      - Groupy2: groupy2.md
-  - Dạy học:
-      - OneDrive: onedrive.md
-      - Zalo: zalo.md
-      - Word: word.md
-      - Excel: excel.md
-      - Foxit PDF Reader: foxitpdfreader.md
-      - Teams: teams.md
-      - Canva: canva.md
-      - CSDL: csdl.md
-      - VnEdu: vnedu.md
-      - Google: google.md
-      - Typing: typing.md
-      - 10fastfingers: 10fastfingers.md
-      - M365 Copilot: m365copilot.md
-      - B&T PRO: b&tpro.md
-      - Cam Scanner: camscanner.md
-      - VnEdu Teacher: vneduteacher.md
-      - VnEdu Connect: vneduconnect.md
-      - MathType: mathtype.md
-      - Genially: genially.md
-      - Kutools for Excel: kutoolsforexcel.md
-      - SimpleMind: simplemind.md
-      - Notion: notion.md
-      - UpNote: upnote.md
-      - Anki: anki.md
-      - Niagara Launcher: niagaralauncher.md
-      - QRDex.io: qrdexio.md
-      - Directory Opus: directoryopus.md
-  - Hiệu suất:
-      - Outlook: outlook.md
-      - Calendar: calendar.md
-      - OneDrive: onedrive.md
-      - Zalo: zalo.md
-      - Word: word.md
-      - Excel: excel.md
-      - Foxit PDF Reader: foxitpdfreader.md
-      - Google: google.md
-      - Edge: edge.md
-      - Windows: windows.md
-      - ChatGPT: chatgpt.md
-      - Typing: typing.md
-      - Listary: listary.md
-      - M365 Copilot: m365copilot.md
-      - Unikey: unikey.md
-      - Todo: todo.md
-      - Ditto: ditto.md
-      - Renamer: renamer.md
-      - Notion: notion.md
-      - UpNote: upnote.md
-      - Everything: everything.md
-      - ShareX: sharex.md
-      - Groupy2: groupy2.md
+  - Cộng tác: congtac.md
+  - Quản lý: quanly.md
+  - Dạy học: dayhoc.md
+  - Hiệu suất: hieusuat.md
   - Dọn dẹp:
-      - Delete Temporary Files: deletetemporaryfiles.md
-      - QTranslate: qtranslate.md
-      - WolframAlpha: wolframalpha.md
-      - Everything: everything.md
-      - Tree Size: treesize.md
-      - Quotes Widget: quoteswidget.md
+      - Delete Temporary Files: link/deletetemporaryfilesdondep.md
+      - QTranslate: link/qtranslatedondep.md
+      - Everything: link/everythingdondep.md
+      - Tree Size: link/treesizedondep.md
+      - Quotes Widget: link/quoteswidgetdondep.md
   - AI & Hỗ Trợ:
-      - ChatGPT: chatgpt.md
-      - M365 Copilot: m365copilot.md
-      - PDF Eagle: pdfeagle.md
-      - Mathpix: mathpix.md
-      - UltraViewer: ultraviewer.md
-      - Cobalt: cobalt.md
-      - CapCut: capcut.md
-  - Chủ đề:
+      - ChatGPT: link/chatgptaihotro.md
+      - M365 Copilot: link/m365copilotaihotro.md
+      - PDF Eagle: link/pdfeagleaihotro.md
+      - Mathpix: link/mathpixaihotro.md
+      - UltraViewer: link/ultravieweraihotro.md
+      - Cobalt: link/cobaltaihotro.md
+      - CapCut: link/capcutaihotro.md
+  - Chủ đề: 
       - Nhắc nhở: theme/nhacnho.md
       - Nút bấm: theme/nutbam.md
       - Tab nội dung: theme/tabnoidung.md
       - Chú thích: theme/chuthich.md
       - Định dạng: theme/dinhdang.md
       - Chú giải: theme/chugiai.md
+
+      
 theme:
     name: material
     custom_dir: overrides
@@ -236,7 +139,8 @@ plugins:
     - git-revision-date-localized:
         enable_creation_date: true
         type: date
-        fallback_to_build_date: true 
+        fallback_to_build_date: true
+        enable_parallel_processing: false
     - table-reader           
 markdown_extensions:
   - pymdownx.snippets:
@@ -268,11 +172,8 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true      
 extra:
-  # Custom translations
-  language: vi  # Ensure Vietnamese is used as the base language
-  # Custom translations for UI elements
+  language: vi
   translate:
-    # Change "Table of Contents" text 
     "toc.title": "Nội dung"
   # Disabled version provider to avoid 404 errors for versions.json
   # version:

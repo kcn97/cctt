@@ -1,4 +1,7 @@
-# Giới thiệu
+# QTranslate
+
+## Giới thiệu
+
 QTranslate là phần mềm dịch thuật nhanh trên máy tính, hỗ trợ nhiều ngôn ngữ và tích hợp với các dịch vụ dịch trực tuyến.
 
 | Thuộc tính         | Giá trị                                  |
@@ -9,12 +12,12 @@ QTranslate là phần mềm dịch thuật nhanh trên máy tính, hỗ trợ nh
 | Thanh toán         | Miễn phí                                 |
 | Trạng thái         | Dự kiến làm                              |
 
-# Cài đặt và đăng nhập
+## Cài đặt và đăng nhập
 
-# Tính năng cơ bản
+## Tính năng cơ bản
 
-# Tính năng nâng cao
+## Tính năng nâng cao
 
-# Các thủ thuật
+## Các thủ thuật
 
-# Lưu ý quan trọng
+## Lưu ý quan trọng

@@ -1,9 +1,5 @@
----
-tags:
-  - Reference
----
-
 # Chú thích
+
 
 ``` 
 Đây là văn bản có chú thích[^1] và một chú thích khác[^2].

@@ -1,4 +1,7 @@
-# Giới thiệu
+# VnEdu
+
+## Giới thiệu
+
 VnEdu là hệ thống quản lý giáo dục trực tuyến, hỗ trợ quản lý điểm, thông tin học sinh và liên lạc giữa nhà trường với phụ huynh.
 
 | Thuộc tính         | Giá trị                                  |
@@ -9,12 +12,12 @@ VnEdu là hệ thống quản lý giáo dục trực tuyến, hỗ trợ quản 
 | Thanh toán         | Trả phí                                  |
 | Trạng thái         | Dự kiến làm                              |
 
-# Cài đặt và đăng nhập
+## Cài đặt và đăng nhập
 
-# Tính năng cơ bản
+## Tính năng cơ bản
 
-# Tính năng nâng cao
+## Tính năng nâng cao
 
-# Các thủ thuật
+## Các thủ thuật
 
-# Lưu ý quan trọng
+## Lưu ý quan trọng

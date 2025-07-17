@@ -1,4 +1,7 @@
-# Giới thiệu
+# Outlook
+
+## Giới thiệu
+
 Outlook là công cụ quản lý email, lịch và liên lạc chuyên nghiệp của Microsoft, giúp bạn tổ chức công việc hiệu quả.
 
 | Thuộc tính         | Giá trị                                  |
@@ -9,12 +12,12 @@ Outlook là công cụ quản lý email, lịch và liên lạc chuyên nghiệp
 | Thanh toán         | Miễn phí                                 |
 | Trạng thái         | Dự kiến làm                              |
 
-# Cài đặt và đăng nhập
+## Cài đặt và đăng nhập
 
-# Tính năng cơ bản
+## Tính năng cơ bản
 
-# Tính năng nâng cao
+## Tính năng nâng cao
 
-# Các thủ thuật
+## Các thủ thuật
 
-# Lưu ý quan trọng
+## Lưu ý quan trọng

@@ -1,14 +1,14 @@
-# To Do
+# HiBit Uninstaller
 
 ## Giới thiệu
 
-To Do là ứng dụng quản lý công việc, nhắc nhở và lập kế hoạch cá nhân hiệu quả trên nhiều nền tảng.
+HiBit Uninstaller là phần mềm hỗ trợ gỡ cài đặt ứng dụng triệt để, dọn dẹp file rác và tối ưu hệ thống.
 
 | Thuộc tính         | Giá trị                                  |
 |--------------------|------------------------------------------|
 | Đánh giá           | ⭐⭐⭐⭐⭐                                   |
-| Trang web          | [play.google.com/store/apps/details?id=com.ashwin.apps.android.quoteswidget](https://play.google.com/store/apps/details?id=com.ashwin.apps.android.quoteswidget) |
-| Nền tảng           | PC, Phone, Web                           |
+| Trang web          | [hibitsoft.ir/Uninstaller.html](https://hibitsoft.ir/Uninstaller.html) |
+| Nền tảng           | PC                                       |
 | Thanh toán         | Miễn phí                                 |
 | Trạng thái         | Dự kiến làm                              |
 

@@ -1,4 +1,7 @@
-# Giới thiệu
+# Directory Opus
+
+## Giới thiệu
+
 Directory Opus là phần mềm quản lý file mạnh mẽ, hỗ trợ thao tác và tổ chức dữ liệu chuyên nghiệp trên máy tính.
 
 | Thuộc tính         | Giá trị                                  |
@@ -9,12 +12,12 @@ Directory Opus là phần mềm quản lý file mạnh mẽ, hỗ trợ thao tá
 | Thanh toán         | Trả phí                                  |
 | Trạng thái         | Dự kiến làm                              |
 
-# Cài đặt và đăng nhập
+## Cài đặt và đăng nhập
 
-# Tính năng cơ bản
+## Tính năng cơ bản
 
-# Tính năng nâng cao
+## Tính năng nâng cao
 
-# Các thủ thuật
+## Các thủ thuật
 
-# Lưu ý quan trọng
+## Lưu ý quan trọng

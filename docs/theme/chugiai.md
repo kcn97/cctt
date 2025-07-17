@@ -1,9 +1,5 @@
----
-tags:
-  - Reference
----
-
 # Chú giải
+
 
 ```
 [Di chuột vào đây](https://example.com "Tôi là một chú giải!")

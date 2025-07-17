@@ -1,9 +1,5 @@
----
-tags:
-  - Reference
----
-
 # Tab nội dung
+
 
 ## Nhóm các khối mã
 

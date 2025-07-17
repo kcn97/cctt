@@ -1,137 +1,20 @@
-# Code
+# Giới thiệu
+Cobalt là công cụ trực tuyến hỗ trợ tạo và quản lý mã QR, giúp chia sẻ thông tin nhanh chóng và tiện lợi.
 
-=== "Code block"
-    ````
-    ```  
-    # Fenced code blocks are like Standard
-    # Markdown’s regular code blocks, except that
-    # they’re not indented and instead rely on
-    # start and end fence lines to delimit the
-    # code block.
-    
-    x = 1
-    if x == 1:
-        # indented four spaces
-        print("x is 1.")
-    ```
-    ````
+| Thuộc tính         | Giá trị                                  |
+|--------------------|------------------------------------------|
+| Đánh giá           | ⭐⭐⭐⭐⭐                                   |
+| Trang web          | [cobalt.tools](https://cobalt.tools)     |
+| Nền tảng           | Web                                     |
+| Thanh toán         | Miễn phí                                 |
+| Trạng thái         | Dự kiến làm                              |
 
-    ``` 
-    # Fenced code blocks are like Standard
-    # Markdown’s regular code blocks, except that
-    # they’re not indented and instead rely on
-    # start and end fence lines to delimit the
-    # code block.
-    
-        x = 1
-    if x == 1:
-        # indented four spaces
-        print("x is 1.")
-    ```
-    
-    or
+# Cài đặt và đăng nhập
 
-    ```
-    ~~~
-    x = 1
-    if x == 1:
-        # indented four spaces
-        print("x is 1.")
-    ~~~
-    ```
-    
-    ~~~
-    x = 1
-    if x == 1:
-        # indented four spaces
-        print("x is 1.")
-    ~~~
-    
-=== "Syntax highlighting"
+# Tính năng cơ bản
 
-    ````
-    ```python
-    x = 1
-    if x == 1:
-        # indented four spaces
-        print("x is 1.")
-    ```
-    ````
-    
-    ```python
-    x = 1
-    if x == 1:
-        # indented four spaces
-        print("x is 1.")
-    ```  
+# Tính năng nâng cao
 
-=== "Code block with title"
+# Các thủ thuật
 
-    ````
-    ```python title="script.py"
-    x = 1
-    if x == 1:
-        # indented four spaces
-        print("x is 1.")
-    ```
-    ````
-    
-    ```python title="script.py"
-    x = 1
-    if x == 1:
-        # indented four spaces
-        print("x is 1.")
-    ```  
-
-=== "Code block with line numbers"
-
-    ````
-    ```python title="script.py" linenums="1"
-    x = 1
-    if x == 1:
-        # indented four spaces
-        print("x is 1.")
-    ```
-    ````
-    
-    ```python title="script.py" linenums="1"
-    x = 1
-    if x == 1:
-        # indented four spaces
-        print("x is 1.")
-    ```
-
-    ````
-    ```python title="script.py" linenums="1" hl_lines="2 3"
-    x = 1
-    if x == 1:
-        # indented four spaces
-        print("x is 1.")
-    ```
-    ````
-    
-    ```python title="script.py" linenums="1" hl_lines="2 3"
-    x = 1
-    if x == 1:
-        # indented four spaces
-        print("x is 1.")
-    ```    
-
-=== "Inline code"
-    ```
-    <code>$ git clone git@github.com:kcn97/cctt.git</code>
-    ```
-    
-    <code>$ git clone git@github.com:kcn97/cctt.git</code>
-
-***
-
-
-To insert a series of backticks (or tildes) into a code block, use a different number of backticks for the separators.
-`````
-````
-```
-
-```
-````
-`````
+# Lưu ý quan trọng

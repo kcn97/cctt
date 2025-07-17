@@ -1,9 +1,5 @@
----
-tags:
-  - Reference
----
-
 # Nút bấm
+
 
 ``` 
 [Đăng ký nhận bản tin](#){ .md-button }

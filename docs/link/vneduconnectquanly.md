@@ -1,5 +1,9 @@
-# Giới thiệu
+# VnEdu Connect
+
+## Giới thiệu
+
 VnEdu Connect là ứng dụng kết nối phụ huynh với nhà trường, hỗ trợ cập nhật thông tin học tập và liên lạc nhanh chóng.
+*Hướng dẫn sử dụng phần mềm VnEdu Connect cho giáo viên và học sinh.*
 
 | Thuộc tính         | Giá trị                                  |
 |--------------------|------------------------------------------|
@@ -9,12 +13,12 @@ VnEdu Connect là ứng dụng kết nối phụ huynh với nhà trường, h�
 | Thanh toán         | Miễn phí                                 |
 | Trạng thái         | Dự kiến làm                              |
 
-# Cài đặt và đăng nhập
+## Cài đặt và đăng nhập
 
-# Tính năng cơ bản
+## Tính năng cơ bản
 
-# Tính năng nâng cao
+## Tính năng nâng cao
 
-# Các thủ thuật
+## Các thủ thuật
 
-# Lưu ý quan trọng
+## Lưu ý quan trọng

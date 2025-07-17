@@ -1,4 +1,7 @@
-# Giới thiệu
+# SimpleMind
+
+## Giới thiệu
+
 SimpleMind là phần mềm vẽ sơ đồ tư duy, hỗ trợ tổ chức ý tưởng và lập kế hoạch hiệu quả.
 
 | Thuộc tính         | Giá trị                                  |
@@ -9,12 +12,12 @@ SimpleMind là phần mềm vẽ sơ đồ tư duy, hỗ trợ tổ chức ý t�
 | Thanh toán         | Trả phí                                  |
 | Trạng thái         | Dự kiến làm                              |
 
-# Cài đặt và đăng nhập
+## Cài đặt và đăng nhập
 
-# Tính năng cơ bản
+## Tính năng cơ bản
 
-# Tính năng nâng cao
+## Tính năng nâng cao
 
-# Các thủ thuật
+## Các thủ thuật
 
-# Lưu ý quan trọng
+## Lưu ý quan trọng

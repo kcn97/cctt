@@ -1,4 +1,7 @@
-# Giới thiệu
+# OneDrive
+
+## Giới thiệu
+
 OneDrive là dịch vụ lưu trữ đám mây của Microsoft, giúp bạn lưu trữ, chia sẻ và đồng bộ hóa dữ liệu dễ dàng.
 
 | Thuộc tính         | Giá trị                                  |
@@ -9,12 +12,12 @@ OneDrive là dịch vụ lưu trữ đám mây của Microsoft, giúp bạn lưu
 | Thanh toán         | Miễn phí                                 |
 | Trạng thái         | Dự kiến làm                              |
 
-# Cài đặt và đăng nhập
+## Cài đặt và đăng nhập
 
-# Tính năng cơ bản
+## Tính năng cơ bản
 
-# Tính năng nâng cao
+## Tính năng nâng cao
 
-# Các thủ thuật
+## Các thủ thuật
 
-# Lưu ý quan trọng
+## Lưu ý quan trọng

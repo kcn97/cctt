@@ -1,9 +1,5 @@
----
-tags:
-  - Reference
----
-
 # Định dạng
+
 
 === "Văn bản với các thay đổi được đề xuất"
     

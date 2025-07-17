@@ -1,4 +1,7 @@
-# Giới thiệu
+# Edge
+
+## Giới thiệu
+
 Edge là trình duyệt web hiện đại của Microsoft, hỗ trợ duyệt web nhanh, bảo mật và đồng bộ hóa dữ liệu.
 
 | Thuộc tính         | Giá trị                                  |
@@ -9,12 +12,12 @@ Edge là trình duyệt web hiện đại của Microsoft, hỗ trợ duyệt we
 | Thanh toán         | Miễn phí                                 |
 | Trạng thái         | Dự kiến làm                              |
 
-# Cài đặt và đăng nhập
+## Cài đặt và đăng nhập
 
-# Tính năng cơ bản
+## Tính năng cơ bản
 
-# Tính năng nâng cao
+## Tính năng nâng cao
 
-# Các thủ thuật
+## Các thủ thuật
 
-# Lưu ý quan trọng
+## Lưu ý quan trọng

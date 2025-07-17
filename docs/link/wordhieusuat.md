@@ -1,5 +1,9 @@
-# Giới thiệu
+# Word
+
+## Giới thiệu
+
 Word là phần mềm soạn thảo văn bản chuyên nghiệp, hỗ trợ tạo tài liệu, báo cáo, hợp đồng và nhiều loại văn bản khác.
+
 
 | Thuộc tính         | Giá trị                                  |
 |--------------------|------------------------------------------|
@@ -9,12 +13,12 @@ Word là phần mềm soạn thảo văn bản chuyên nghiệp, hỗ trợ tạ
 | Thanh toán         | Trả phí                                  |
 | Trạng thái         | Dự kiến làm                              |
 
-# Cài đặt và đăng nhập
+## Cài đặt và đăng nhập
 
-# Tính năng cơ bản
+## Tính năng cơ bản
 
-# Tính năng nâng cao
+## Tính năng nâng cao
 
-# Các thủ thuật
+## Các thủ thuật
 
-# Lưu ý quan trọng
+## Lưu ý quan trọng

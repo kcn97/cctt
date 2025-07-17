@@ -1,48 +1,33 @@
-# Media
+# Dạy học
 
-=== "Images"
-
-    ```
-    ![Linux Screenshot](img/screenshots/screenshot-linux.png)
-    ```
-    ![Linux Screenshot](img/screenshots/screenshot-linux.png)
-
-    ``` 
-    # Modern browsers provide native support for lazy-loading images through the loading=lazy directive, which degrades to eager-loading in browsers without support   
-    ![Image title](https://dummyimage.com/600x400/){ loading=lazy }
-    ```
-    ![Image title](https://dummyimage.com/600x400/){ loading=lazy }
-
-    ```
-    <img src="../img/screenshots/screenshot-linux.png" alt="Linux Screenshot" width="400" height="276">
-    ```
-     <img src="../img/screenshots/screenshot-linux.png" alt="Linux Screenshot" width="400" height="276">
-    
-    ```
-    <figure>
-     <img src="../img/screenshots/screenshot-linux.png" alt="Linux Screenshot" width="400" height="276">
-      <figcaption>Linux Screenshot</figcaption>
-    </figure>
-    ```
-    
-    <figure>
-     <img src="../img/screenshots/screenshot-linux.png" alt="Linux Screenshot" width="400" height="276">
-      <figcaption>Linux Screenshot</figcaption>
-    </figure>
-    
-    
-=== "Videos"
-    
-    ```
-    <video width="320" height="240" controls>
-      <source src="../vid/abstract.mp4" type="video/mp4">
-    </video>
-    ```
-    <video width="320" height="240" controls>
-      <source src="../vid/abstract.mp4" type="video/mp4">
-    </video>
-    
-    ```
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pBy1zgt0XPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    ```
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pBy1zgt0XPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+--8<-- "data/outlook.md"
+--8<-- "data/onedrive.md"
+--8<-- "data/zalo.md"
+--8<-- "data/word.md"
+--8<-- "data/excel.md"
+--8<-- "data/foxitpdfreader.md"
+--8<-- "data/teams.md"
+--8<-- "data/canva.md"
+--8<-- "data/csdl.md"
+--8<-- "data/vnedu.md"
+--8<-- "data/google.md"
+--8<-- "data/typing.md"
+--8<-- "data/10fastfingers.md"
+--8<-- "data/m365copilot.md"
+--8<-- "data/wolframalpha.md"
+--8<-- "data/b&tpro.md"
+--8<-- "data/camscanner.md"
+--8<-- "data/vneduteacher.md"
+--8<-- "data/vneduconnect.md"
+--8<-- "data/unttronde.md"
+--8<-- "data/untquizgrader.md"
+--8<-- "data/mathtype.md"
+--8<-- "data/genially.md"
+--8<-- "data/kutoolsforexcel.md"
+--8<-- "data/simplemind.md"
+--8<-- "data/notion.md"
+--8<-- "data/upnote.md"
+--8<-- "data/anki.md"
+--8<-- "data/niagaralauncher.md"
+--8<-- "data/qrdexio.md"
+--8<-- "data/directoryopus.md"

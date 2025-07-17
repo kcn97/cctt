@@ -1,5 +1,9 @@
-# Giới thiệu
+# B&T PRO
+
+## Giới thiệu
 B&T PRO là phần mềm hỗ trợ công việc chuyên nghiệp, giúp tối ưu hóa quy trình và quản lý dữ liệu hiệu quả.
+
+*Hướng dẫn sử dụng phần mềm B&T PRO cho giáo viên và học sinh.*
 
 | Thuộc tính         | Giá trị                                  |
 |--------------------|------------------------------------------|
@@ -9,12 +13,12 @@ B&T PRO là phần mềm hỗ trợ công việc chuyên nghiệp, giúp tối �
 | Thanh toán         | Miễn phí, Trả phí                        |
 | Trạng thái         | Dự kiến làm                              |
 
-# Cài đặt và đăng nhập
+## Cài đặt và đăng nhập
 
-# Tính năng cơ bản
+## Tính năng cơ bản
 
-# Tính năng nâng cao
+## Tính năng nâng cao
 
-# Các thủ thuật
+## Các thủ thuật
 
-# Lưu ý quan trọng
+## Lưu ý quan trọng

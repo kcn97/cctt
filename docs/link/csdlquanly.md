@@ -1,4 +1,7 @@
-# Giới thiệu
+# CSDL
+
+## Giới thiệu
+
 CSDL là hệ thống quản lý cơ sở dữ liệu trực tuyến, hỗ trợ lưu trữ và truy xuất thông tin giáo dục.
 
 | Thuộc tính         | Giá trị                                  |
@@ -9,12 +12,12 @@ CSDL là hệ thống quản lý cơ sở dữ liệu trực tuyến, hỗ trợ
 | Thanh toán         | Miễn phí                                 |
 | Trạng thái         | Dự kiến làm                              |
 
-# Cài đặt và đăng nhập
+## Cài đặt và đăng nhập
 
-# Tính năng cơ bản
+## Tính năng cơ bản
 
-# Tính năng nâng cao
+## Tính năng nâng cao
 
-# Các thủ thuật
+## Các thủ thuật
 
-# Lưu ý quan trọng
+## Lưu ý quan trọng

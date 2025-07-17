@@ -1,4 +1,7 @@
-# Giới thiệu
+# Cobalt
+
+## Giới thiệu
+
 Cobalt là công cụ trực tuyến hỗ trợ tạo và quản lý mã QR, giúp chia sẻ thông tin nhanh chóng và tiện lợi.
 
 | Thuộc tính         | Giá trị                                  |
@@ -9,12 +12,12 @@ Cobalt là công cụ trực tuyến hỗ trợ tạo và quản lý mã QR, gi�
 | Thanh toán         | Miễn phí                                 |
 | Trạng thái         | Dự kiến làm                              |
 
-# Cài đặt và đăng nhập
+## Cài đặt và đăng nhập
 
-# Tính năng cơ bản
+## Tính năng cơ bản
 
-# Tính năng nâng cao
+## Tính năng nâng cao
 
-# Các thủ thuật
+## Các thủ thuật
 
-# Lưu ý quan trọng
+## Lưu ý quan trọng

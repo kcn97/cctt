@@ -1,4 +1,7 @@
-# Giới thiệu
+# ReNamer
+
+## Giới thiệu
+
 ReNamer là phần mềm đổi tên file hàng loạt, hỗ trợ nhiều quy tắc và thao tác tự động hóa trên máy tính.
 
 | Thuộc tính         | Giá trị                                  |
@@ -9,12 +12,12 @@ ReNamer là phần mềm đổi tên file hàng loạt, hỗ trợ nhiều quy t
 | Thanh toán         | Miễn phí                                 |
 | Trạng thái         | Dự kiến làm                              |
 
-# Cài đặt và đăng nhập
+## Cài đặt và đăng nhập
 
-# Tính năng cơ bản
+## Tính năng cơ bản
 
-# Tính năng nâng cao
+## Tính năng nâng cao
 
-# Các thủ thuật
+## Các thủ thuật
 
-# Lưu ý quan trọng
+## Lưu ý quan trọng

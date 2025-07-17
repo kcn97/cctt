@@ -1,4 +1,7 @@
-# Giới thiệu
+# Foxit PDF Reader
+
+## Giới thiệu
+
 Foxit PDF Reader là phần mềm đọc file PDF nhanh, nhẹ, hỗ trợ chú thích và bảo mật tài liệu.
 
 | Thuộc tính         | Giá trị                                  |
@@ -9,12 +12,12 @@ Foxit PDF Reader là phần mềm đọc file PDF nhanh, nhẹ, hỗ trợ chú 
 | Thanh toán         | Miễn phí                                 |
 | Trạng thái         | Dự kiến làm                              |
 
-# Cài đặt và đăng nhập
+## Cài đặt và đăng nhập
 
-# Tính năng cơ bản
+## Tính năng cơ bản
 
-# Tính năng nâng cao
+## Tính năng nâng cao
 
-# Các thủ thuật
+## Các thủ thuật
 
-# Lưu ý quan trọng
+## Lưu ý quan trọng

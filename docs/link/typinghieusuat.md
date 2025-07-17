@@ -1,4 +1,7 @@
-# Giới thiệu
+# Typing
+
+## Giới thiệu
+
 Typing là nền tảng luyện gõ phím trực tuyến, giúp cải thiện tốc độ và độ chính xác khi nhập liệu.
 
 | Thuộc tính         | Giá trị                                  |
@@ -9,12 +12,12 @@ Typing là nền tảng luyện gõ phím trực tuyến, giúp cải thiện t�
 | Thanh toán         | Miễn phí                                 |
 | Trạng thái         | Dự kiến làm                              |
 
-# Cài đặt và đăng nhập
+## Cài đặt và đăng nhập
 
-# Tính năng cơ bản
+## Tính năng cơ bản
 
-# Tính năng nâng cao
+## Tính năng nâng cao
 
-# Các thủ thuật
+## Các thủ thuật
 
-# Lưu ý quan trọng
+## Lưu ý quan trọng

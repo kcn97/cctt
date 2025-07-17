@@ -6,22 +6,22 @@ Chào mừng bạn đến với dự án CÔNG CỤ & THỦ THUẬT. Dự án n�
 ### 📚 [Danh mục](danhmuc.md)
 Tổng hợp các danh mục và phân loại công cụ, thủ thuật.
 
-### 🤝 [Cộng tác](congtac.md)
+### 🤝 [Cộng tác](link/outlookcongtac.md)
 Các công cụ và phương pháp hỗ trợ cộng tác, làm việc nhóm.
 
-### 📋 [Quản lý](quanly.md)
+### 📋 [Quản lý](link/outlookquanly.md)
 Thủ thuật quản lý dự án, tác vụ và tổ chức công việc.
 
-### 📖 [Dạy học](dayhoc.md)
+### 📖 [Dạy học](link/outlookdayhoc.md)
 Công cụ và phương pháp hỗ trợ giảng dạy và học tập.
 
-### ⚡ [Hiệu suất](hieusuat.md)
+### ⚡ [Hiệu suất](link/outlookhieusuat.md)
 Các kỹ thuật tối ưu hóa hiệu suất làm việc.
 
-### 🧹 [Dọn dẹp](dondep.md)
+### 🧹 [Dọn dẹp](link/deletetemporaryfilesdondep.md)
 Công cụ và phương pháp dọn dẹp, tổ chức file và dữ liệu.
 
-### 🤖 [AI & Hỗ trợ](aihotro.md)
+### 🤖 [AI & Hỗ trợ](link/chatgptaihotro.md)
 Công cụ AI và các dịch vụ hỗ trợ thông minh.
 
 ### 📝 [Định dạng](theme/dinhdang.md)

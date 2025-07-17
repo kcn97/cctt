@@ -1,5 +1,9 @@
-# Giới thiệu
+# Zalo
+
+## Giới thiệu
+
 Zalo là ứng dụng nhắn tin, gọi điện và chia sẻ dữ liệu phổ biến tại Việt Nam, hỗ trợ làm việc và giao tiếp nhóm hiệu quả.
+
 
 | Thuộc tính         | Giá trị                                  |
 |--------------------|------------------------------------------|
@@ -9,12 +13,12 @@ Zalo là ứng dụng nhắn tin, gọi điện và chia sẻ dữ liệu phổ 
 | Thanh toán         | Miễn phí                                 |
 | Trạng thái         | Dự kiến làm                              |
 
-# Cài đặt và đăng nhập
+## Cài đặt và đăng nhập
 
-# Tính năng cơ bản
+## Tính năng cơ bản
 
-# Tính năng nâng cao
+## Tính năng nâng cao
 
-# Các thủ thuật
+## Các thủ thuật
 
-# Lưu ý quan trọng
+## Lưu ý quan trọng

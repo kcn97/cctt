@@ -1,7 +1,9 @@
 # AI & Hỗ trợ
 
-Trang này chứa các công cụ và thủ thuật về AI và hỗ trợ.
-
-## Nội dung sẽ được bổ sung
-
-Các nội dung về AI và hỗ trợ sẽ được bổ sung vào trang này.
+--8<-- "data/chatgpt.md"
+--8<-- "data/m365copilot.md"
+--8<-- "data/pdfeagle.md"
+--8<-- "data/mathpix.md"
+--8<-- "data/ultraviewer.md"
+--8<-- "data/cobalt.md"
+--8<-- "data/capcut.md"

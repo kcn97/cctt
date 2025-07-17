@@ -1,4 +1,7 @@
-# Giới thiệu
+# ChatGPT
+
+## Giới thiệu
+
 ChatGPT là công cụ trí tuệ nhân tạo hỗ trợ trò chuyện, giải đáp thắc mắc và tạo nội dung tự động.
 
 | Thuộc tính         | Giá trị                                  |
@@ -9,12 +12,12 @@ ChatGPT là công cụ trí tuệ nhân tạo hỗ trợ trò chuyện, giải �
 | Thanh toán         | Miễn phí, Trả phí                        |
 | Trạng thái         | Dự kiến làm                              |
 
-# Cài đặt và đăng nhập
+## Cài đặt và đăng nhập
 
-# Tính năng cơ bản
+## Tính năng cơ bản
 
-# Tính năng nâng cao
+## Tính năng nâng cao
 
-# Các thủ thuật
+## Các thủ thuật
 
-# Lưu ý quan trọng
+## Lưu ý quan trọng

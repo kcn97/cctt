@@ -1,4 +1,7 @@
-# Giới thiệu
+# Kutools for Excel
+
+## Giới thiệu
+
 Kutools for Excel là bộ công cụ bổ trợ cho Excel, giúp tăng tốc và mở rộng các chức năng xử lý dữ liệu.
 
 | Thuộc tính         | Giá trị                                  |
@@ -9,12 +12,12 @@ Kutools for Excel là bộ công cụ bổ trợ cho Excel, giúp tăng tốc v�
 | Thanh toán         | Trả phí                                  |
 | Trạng thái         | Dự kiến làm                              |
 
-# Cài đặt và đăng nhập
+## Cài đặt và đăng nhập
 
-# Tính năng cơ bản
+## Tính năng cơ bản
 
-# Tính năng nâng cao
+## Tính năng nâng cao
 
-# Các thủ thuật
+## Các thủ thuật
 
-# Lưu ý quan trọng
+## Lưu ý quan trọng
